@@ -1,0 +1,18 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+#header-nav {
+  background-color: #4682B4;
+  height: 100px;
+}
+
+.navbar-brand {
+  padding-top: 25px;
+}
+
+.navbar-brand h1 {
+  color: #9FE2BF;
+  text-transform: uppercase;
+  font-weight: bold;
+}
